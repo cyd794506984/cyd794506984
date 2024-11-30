@@ -1,7 +1,5 @@
-![Header](https://raw.githubusercontent.com/cyd794506984/cyd794506984/main/Header.png)
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyd794506984/cyd794506984/main/Header.png" alt="Header Image" width="1000">
+  <img src="https://raw.githubusercontent.com/cyd794506984/cyd794506984/main/Header.png" alt="Header Image" width="2000" height="400">
 </p>
 
 ## Hi there 👋
