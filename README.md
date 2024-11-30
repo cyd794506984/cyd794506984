@@ -6,5 +6,5 @@
 
 This is **Yinda Chen**, a QMSS student at Columbia University who is passionate about investment risk analysis and data science. I specialize in **data visualization**, **data fetching**, and **data analysis**. My work bridges social science and technology, leveraging data to uncover insights and solve complex problems. Always exploring new ways to turn numbers into actionable stories!
 
-<h1></h1>
+<h1>More</h1>
 👨‍💼Alongside coding, I also had practical experience in finance transformation, investment risk control, and financial research.
