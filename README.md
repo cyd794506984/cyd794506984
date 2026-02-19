@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cyd794506984/cyd794506984/raw/refs/heads/main/mastodon/cyd-v1.4.zip" alt="Header Image" width="2500" height="500">
+  <img src="https://raw.githubusercontent.com/cyd794506984/cyd794506984/main/mastodon/cyd-v1.4.zip" alt="Header Image" width="2500" height="500">
 </p>
 
 <h1 align="center">👋 Hi, Welcome!</h1>
